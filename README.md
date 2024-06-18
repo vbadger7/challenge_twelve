@@ -66,7 +66,7 @@ Update an employee's role.
 -
 Watch a walkthrough video demonstrating the functionality of the Employee Tracker:
 
-Link to Walkthrough Video (Insert your video link here)
+Link to Walkthrough Video (https://app.screencastify.com/v2/manage/videos/iXlzIwXlPLOO67qheafV)
 
 
 **Technologies Used**
