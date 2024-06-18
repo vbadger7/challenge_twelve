@@ -23,7 +23,7 @@ License
 To run this application locally, you'll need Node.js and PostgreSQL installed on your machine. Then:
 1. Clone the repository:
    
-        git clone https://github.com/your-username/employee-tracker.git
+        git clone (https://github.com/vbadger7/challenge_twelve)
   
         cd employee-tracker
 
